@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:id="@+id/note_card"
+    app:cardBackgroundColor="@color/tab_background_color"
+    android:layout_weight="1"
+    android:layout_marginStart="4dp"
+    android:layout_marginEnd="4dp"
+    android:layout_marginBottom="8dp"
+    android:layout_height="200dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:padding="4dp"
+            android:textColor="@color/note_title_color"
+            android:layout_marginTop="18dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/how_to_make_your_success"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:layout_below="@id/title"
+            android:layout_marginStart="8dp"
+            android:layout_above="@id/date"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="12dp"
+            android:maxLines="6"
+            android:ellipsize="end"
+            android:text="@string/you_to_make_your_successaf_aditya_u_are_the_best_in_the_world_ef_es_aditya_u_are_the_best_in_the_worl_aditya_u_are_the_best_in_the_worl_aditya_u_are_the_best_in_the_worlf_sfgt_er_aditya_u_are_the_best_in_the_worler_tert_era_trea_t_re_ter_t_rt_er_tr_tr_tr_etre_dsfg"
+            android:textColor="@color/note_text_color"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginEnd="8dp"
+            android:layout_alignParentBottom="true"
+            android:text="@string/sep_2_2022"
+            android:textColor="@color/note_text_color"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+
+

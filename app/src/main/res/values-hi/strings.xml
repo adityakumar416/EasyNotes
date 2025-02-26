@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ईज़ी नोट्स</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">नमस्ते खाली फ्रैगमेंट</string>
+    <string name="notes">नोट्स</string>
+    <string name="title">शीर्षक</string>
+    <string name="september_2_2022">2 सितंबर, 2022</string>
+    <string name="note">नोट</string>
+    <string name="your_notes">आपके नोट्स</string>
+    <string name="start_taking_some_notes_to_remind_you_of_nsomething_important">कुछ महत्वपूर्ण याद दिलाने के लिए नोट्स बनाना शुरू करें</string>
+    <string name="search_notes">नोट्स खोजें</string>
+    <string name="favorite_notes">पसंदीदा नोट्स</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="general">सामान्य</string>
+    <string name="language">भाषा</string>
+    <string name="custom">कस्टम</string>
+    <string name="appearance">दिखावट</string>
+    <string name="about">हमारे बारे में</string>
+    <string name="rate_us">हमारी रेटिंग दें</string>
+    <string name="follow_us">हमारा अनुसरण करें</string>
+    <string name="share_app">ऐप साझा करें</string>
+    <string name="version">संस्करण:</string>
+    <string name="easy_notes">ईज़ी नोट्स</string>
+    <string name="make_your_private_notes">अपने निजी नोट्स बनाएं</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="how_would_you_rate_our">आप हमारे</string>
+    <string name="app_experience">ऐप अनुभव को कैसे रेट करेंगे?</string>
+    <string name="submit">जमा करें</string>
+    <string name="no_thanks">नहीं, धन्यवाद!</string>
+    <string name="how_to_make_your_success">आपकी सफलता कैसे बनाएं</string>
+    <string name="you_to_make_your_successaf_aditya_u_are_the_best_in_the_world_ef_es_aditya_u_are_the_best_in_the_worl_aditya_u_are_the_best_in_the_worl_aditya_u_are_the_best_in_the_worlf_sfgt_er_aditya_u_are_the_best_in_the_worler_tert_era_trea_t_re_ter_t_rt_er_tr_tr_tr_etre_dsfg">आपकी सफलता बनाने के लिए आदित्य, आप दुनिया के सबसे बेहतरीन व्यक्ति हैं</string>
+    <string name="sep_2_2022">2 सितंबर, 2022</string>
+</resources>

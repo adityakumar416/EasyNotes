@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EasyNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#FBFAFF</item>
+        <item name="android:fontFamily">@font/jua_regular</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+
+    <style name="MyRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:minHeight">16dp</item>
+        <item name="android:maxHeight">16dp</item>
+        <item name="colorControlNormal">@color/star_bg_color</item>
+        <item name="colorControlActivated">#FF9800</item>
+    </style>
+
+
+    <style name="Theme.EasyNotes" parent="Base.Theme.EasyNotes" />
+</resources>
+

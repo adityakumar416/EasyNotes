@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#000000</color>
+    <color name="backgroundColor">#121212</color>
+
+    <color name="blue">#4F2FB7</color>
+    <color name="unselectedColor">#F3F5F7</color>
+    <color name="tab_background_color">#504F4F</color>
+    <color name="grey_text_color">#EFEFEF</color>
+    <color name="note_text_color">#EFEFEF</color>
+    <color name="note_title_color">#FFFFFF</color>
+    <color name="note_bg_color1">#504F4F</color>
+    <color name="rating_black_color">#0F1620</color>
+    <color name="rating_btn_color">#1D242E</color>
+    <color name="star_bg_color">#5F5F5F</color>
+
+
+</resources>
